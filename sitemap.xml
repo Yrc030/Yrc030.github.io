@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.yongrenchong.com/manifest.json</loc>
+    <loc>https://yrc030.github.io/manifest.json</loc>
     
     <lastmod>2022-08-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.yongrenchong.com/posts/4a17b156/</loc>
+    <loc>https://yrc030.github.io/posts/4a17b156/</loc>
     
     <lastmod>2022-08-26</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>https://www.yongrenchong.com/</loc>
+    <loc>https://yrc030.github.io/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

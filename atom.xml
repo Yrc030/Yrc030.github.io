@@ -3,11 +3,11 @@
   <title>庸人冲的个人博客</title>
   
   <subtitle>世上本无事, 庸人自扰之</subtitle>
-  <link href="https://www.yongrenchong.com/atom.xml" rel="self"/>
+  <link href="https://yrc030.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.yongrenchong.com/"/>
+  <link href="https://yrc030.github.io/"/>
   <updated>2022-08-26T04:20:44.476Z</updated>
-  <id>https://www.yongrenchong.com/</id>
+  <id>https://yrc030.github.io/</id>
   
   <author>
     <name>庸人冲</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.yongrenchong.com/posts/4a17b156/"/>
-    <id>https://www.yongrenchong.com/posts/4a17b156/</id>
+    <link href="https://yrc030.github.io/posts/4a17b156/"/>
+    <id>https://yrc030.github.io/posts/4a17b156/</id>
     <published>2022-08-26T03:49:35.026Z</published>
     <updated>2022-08-26T04:20:44.476Z</updated>
     
